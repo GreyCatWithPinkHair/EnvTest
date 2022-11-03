@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WpfApp1/1.0.0": {
+        "dependencies": {
+          "Sanford.MidiToolkit": "5.0.2"
+        },
+        "runtime": {
+          "WpfApp1.dll": {}
+        }
+      },
+      "Sanford.MidiToolkit/5.0.2": {
+        "runtime": {
+          "lib/net40/Sanford.Collections.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/net40/Sanford.Multimedia.Midi.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          },
+          "lib/net40/Sanford.Multimedia.Timers.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net40/Sanford.Multimedia.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.0"
+          },
+          "lib/net40/Sanford.Threading.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sanford.MidiToolkit/5.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HOYyQiIaifkfon4n2EYIXFQ0VIuB+sWiLcoG0sbmUrBdM8NExdYs2uNofHtp+x5QoITL1Ndi43N9x+x9y/UWLg==",
+      "path": "sanford.miditoolkit/5.0.2",
+      "hashPath": "sanford.miditoolkit.5.0.2.nupkg.sha512"
+    }
+  }
+}

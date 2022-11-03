@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hp5ssGox49ZbN4MjW6/bQdn4mx/dfyXrhi1agk85sjGKABlQXdpeWZTRbmG1kuHVfqfl4hC/i4+iwSW4gxNM1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\sanford.miditoolkit\\5.0.2\\sanford.miditoolkit.5.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Sanford.MidiToolkit 5.0.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Sanford.MidiToolkit",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
